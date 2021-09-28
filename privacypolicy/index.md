@@ -3,6 +3,8 @@ Privacy Policy
 
 iCatStudios built the apps listed below as a Free app. 
 
+
+*   [Player Potentials 22](https://apps.apple.com/us/app/player-potentials-22/id1585809569)
 *   [Player Potentials 20](https://apps.apple.com/us/app/player-potentials-20/id1468898433)
 *   [Player Potentials 19](https://apps.apple.com/us/app/player-potentials-19/id1436299051)
 *   [Player Potentials 18](https://apps.apple.com/us/app/player-potentials-18/id1432604974)
